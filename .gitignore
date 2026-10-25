@@ -1,0 +1,11 @@
+# 编译产物
+*.exe
+*.out
+*.obj
+*.o
+a.out
+*.in
+*.ans
+# 编辑器
+.vscode/
+.idea/
